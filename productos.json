@@ -1,0 +1,123 @@
+
+[
+  {
+    "id": 1,
+    "producto": "Camiseta",
+    "precio": 19.99,
+    "imagen": "https://ejemplo.com/imagen_camiseta.jpg"
+  },
+  {
+    "id": 2,
+    "producto": "Zapatos deportivos",
+    "precio": 59.99,
+    "imagen": "https://ejemplo.com/imagen_zapatos.jpg"
+  },
+  {
+    "id": 3,
+    "producto": "Teléfono móvil",
+    "precio": 399.99,
+    "imagen": "https://ejemplo.com/imagen_telefono.jpg"
+  },
+  {
+    "id": 4,
+    "producto": "Laptop",
+    "precio": 799.99,
+    "imagen": "https://ejemplo.com/imagen_laptop.jpg"
+  },
+  {
+    "id": 5,
+    "producto": "Reloj inteligente",
+    "precio": 129.99,
+    "imagen": "https://ejemplo.com/imagen_reloj.jpg"
+  },
+  {
+    "id": 6,
+    "producto": "Tableta",
+    "precio": 299.99,
+    "imagen": "https://ejemplo.com/imagen_tableta.jpg"
+  },
+  {
+    "id": 7,
+    "producto": "Cámara digital",
+    "precio": 249.99,
+    "imagen": "https://ejemplo.com/imagen_camara.jpg"
+  },
+  {
+    "id": 8,
+    "producto": "Auriculares inalámbricos",
+    "precio": 79.99,
+    "imagen": "https://ejemplo.com/imagen_auriculares.jpg"
+  },
+  {
+    "id": 9,
+    "producto": "Teclado mecánico",
+    "precio": 49.99,
+    "imagen": "https://ejemplo.com/imagen_teclado.jpg"
+  },
+  {
+    "id": 10,
+    "producto": "Monitor de 27 pulgadas",
+    "precio": 199.99,
+    "imagen": "https://ejemplo.com/imagen_monitor.jpg"
+  },
+  {
+    "id": 11,
+    "producto": "Mochila",
+    "precio": 39.99,
+    "imagen": "https://ejemplo.com/imagen_mochila.jpg"
+  },
+  {
+    "id": 12,
+    "producto": "Botas de senderismo",
+    "precio": 89.99,
+    "imagen": "https://ejemplo.com/imagen_botas.jpg"
+  },
+  {
+    "id": 13,
+    "producto": "Silla de oficina",
+    "precio": 129.99,
+    "imagen": "https://ejemplo.com/imagen_silla.jpg"
+  },
+  {
+    "id": 14,
+    "producto": "Libro - Título del libro",
+    "precio": 14.99,
+    "imagen": "https://ejemplo.com/imagen_libro.jpg"
+  },
+  {
+    "id": 15,
+    "producto": "Pelota de fútbol",
+    "precio": 9.99,
+    "imagen": "https://ejemplo.com/imagen_pelota.jpg"
+  },
+  {
+    "id": 16,
+    "producto": "Gafas de sol",
+    "precio": 29.99,
+    "imagen": "https://ejemplo.com/imagen_gafas.jpg"
+  },
+  {
+    "id": 17,
+    "producto": "Juego de ajedrez",
+    "precio": 24.99,
+    "imagen": "https://ejemplo.com/imagen_ajedrez.jpg"
+  },
+  {
+    "id": 18,
+    "producto": "Mesa de comedor",
+    "precio": 199.99,
+    "imagen": "https://ejemplo.com/imagen_mesa.jpg"
+  },
+  {
+    "id": 19,
+    "producto": "Impresora multifunción",
+    "precio": 149.99,
+    "imagen": "https://ejemplo.com/imagen_impresora.jpg"
+  },
+  {
+    "id": 20,
+    "producto": "Bolso de mano",
+    "precio": 49.99,
+    "imagen": "https://ejemplo.com/imagen_bolso.jpg"
+  }
+]
